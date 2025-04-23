@@ -3,6 +3,8 @@ from analisis import (
     filtrar_por_fecha,
     productos_mas_vendidos,
     calcular_ingresos_totales,
+    grafico_productos_mas_vendidos,
+    ingresos_por_producto,
 )
 
 def mostrar_menu():
@@ -13,7 +15,8 @@ def mostrar_menu():
     print("4. Filtrar por fecha")
     print("5. Productos más vendidos")
     print("6. Calcular ingresos totales")
-    print("7. Salir")
+    print("7. Ver ingresos totales por producto")
+    print("8. Salir")
 
 def main():
     print("📂 Cargando archivo de datos...")
@@ -36,9 +39,12 @@ def main():
             filtrar_por_fecha(datos, fecha)
         elif opcion == "5":
             productos_mas_vendidos(datos)
+            grafico_productos_mas_vendidos(datos)
         elif opcion == "6":
             calcular_ingresos_totales(datos)
         elif opcion == "7":
+            ingresos_por_producto(datos)
+        elif opcion == "8":
             print("👋 Saliendo del programa. ¡Hasta luego!")
             break
         else:

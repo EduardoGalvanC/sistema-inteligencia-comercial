@@ -1,93 +1,126 @@
 Cliente,Producto,Cantidad,Precio Unitario,Fecha
-Ana López,Pan blanco,2,1.0,2024-04-01
-Carlos Pérez,Tarta de manzana,1,3.5,2024-04-01
-Lucía Martín,Croissant,3,1.5,2024-04-02
-David Gómez,Donut glaseado,4,1.3,2024-04-02
-Sofía Torres,Tarta de queso,1,3.8,2024-04-03
-Miguel Ruiz,Pan integral,2,1.2,2024-04-03
-Laura Fernández,Magdalena,5,1.0,2024-04-04
-Javier Morales,Empanadilla,2,2.0,2024-04-04
-Elena Díaz,Rosquilla,3,1.2,2024-04-05
-Daniel Ortega,Napolitana de chocolate,2,1.8,2024-04-05
-Patricia Navarro,Tarta de fresa,1,4.0,2024-04-06
-Álvaro Medina,Pan de centeno,3,1.3,2024-04-06
-Cristina Castro,Churros,6,0.9,2024-04-07
-Pablo Sánchez,Bollito suizo,4,1.1,2024-04-07
-Marta Romero,Tarta de limón,1,3.7,2024-04-08
-Iván Molina,Donut relleno,2,1.5,2024-04-08
-Nuria Delgado,Pan rústico,1,1.4,2024-04-09
-Alberto Vargas,Bizcocho,3,2.0,2024-04-09
-Raquel Herrera,Empanada gallega,1,3.2,2024-04-10
-Sergio Paredes,Croissant,2,1.5,2024-04-10
-Beatriz León,Magdalena,4,1.0,2024-04-11
-Hugo Navarro,Pan blanco,3,1.0,2024-04-11
-Marina Fuentes,Tarta de manzana,1,3.5,2024-04-12
-Tomás Aguado,Napolitana de jamón y queso,2,2.2,2024-04-12
-Teresa Ríos,Donut glaseado,3,1.3,2024-04-13
-Rubén Campos,Tarta de queso,2,3.8,2024-04-13
-Isabel Méndez,Pan integral,1,1.2,2024-04-14
-Adrián Herrera,Bollito suizo,2,1.1,2024-04-14
-Natalia Duarte,Croissant,3,1.5,2024-04-15
-Jorge Serrano,Rosquilla,2,1.2,2024-04-15
-Sandra Peña,Donut relleno,1,1.5,2024-04-16
-Óscar Prieto,Churros,5,0.9,2024-04-16
-Paula Ramos,Empanadilla,3,2.0,2024-04-17
-Alejandro Cortés,Tarta de fresa,1,4.0,2024-04-17
-Claudia Estévez,Pan de centeno,2,1.3,2024-04-18
-Mario León,Bizcocho,2,2.0,2024-04-18
-Silvia Bravo,Napolitana de chocolate,1,1.8,2024-04-19
-Julián Cabrera,Pan rústico,2,1.4,2024-04-19
-Irene Nieto,Magdalena,3,1.0,2024-04-20
-Gabriel Lozano,Tarta de limón,1,3.7,2024-04-20
-Verónica Cordero,Croissant,4,1.5,2024-04-21
-Luis Benítez,Empanada gallega,1,3.2,2024-04-21
-Eva Gil,Tarta de queso,1,3.8,2024-04-22
-Joaquín Robles,Donut glaseado,2,1.3,2024-04-22
-Noelia Vargas,Pan blanco,2,1.0,2024-04-23
-Andrés Gallego,Napolitana de jamón y queso,1,2.2,2024-04-23
-Carla Pascual,Magdalena,4,1.0,2024-04-24
-Víctor Lozano,Churros,6,0.9,2024-04-24
-Emma Redondo,Tarta de manzana,1,3.5,2024-04-25
-Samuel Reyes,Bizcocho,2,2.0,2024-04-25
-Lorena Peña,Pan integral,3,1.2,2024-04-26
-Iván Duarte,Donut relleno,2,1.5,2024-04-26
-Rebeca Cano,Tarta de fresa,1,4.0,2024-04-27
-Gonzalo Soria,Rosquilla,3,1.2,2024-04-27
-Alicia Arias,Pan de centeno,1,1.3,2024-04-28
-Fernando Ríos,Donut glaseado,2,1.3,2024-04-28
-Natalia Vázquez,Croissant,2,1.5,2024-04-29
-Raúl Suárez,Napolitana de chocolate,2,1.8,2024-04-29
-Patricia Molina,Tarta de queso,1,3.8,2024-04-30
-Héctor Hidalgo,Bollito suizo,3,1.1,2024-04-30
-Rocío Figueroa,Empanadilla,2,2.0,2024-05-01
-Guillermo Acosta,Pan blanco,1,1.0,2024-05-01
-Alba Serrano,Tarta de limón,1,3.7,2024-05-02
-Jonás Merino,Donut relleno,3,1.5,2024-05-02
-Julia Ortega,Bizcocho,2,2.0,2024-05-03
-Diego Roca,Pan rústico,1,1.4,2024-05-03
-Carmen Blasco,Tarta de manzana,1,3.5,2024-05-04
-Víctor Torres,Magdalena,4,1.0,2024-05-04
-Lucía Palacios,Churros,5,0.9,2024-05-05
-Eduardo Ramírez,Pan integral,2,1.2,2024-05-05
-Iris Pino,Napolitana de jamón y queso,2,2.2,2024-05-06
-Ignacio Vallejo,Rosquilla,3,1.2,2024-05-06
-Daniela Cuenca,Pan de centeno,2,1.3,2024-05-07
-Marcos Pastor,Croissant,3,1.5,2024-05-07
-Estela Molina,Tarta de queso,1,3.8,2024-05-08
-Germán Zamora,Empanada gallega,1,3.2,2024-05-08
-Almudena López,Pan blanco,3,1.0,2024-05-09
-Ernesto Fuentes,Churros,6,0.9,2024-05-09
-Lucía Carrasco,Donut glaseado,2,1.3,2024-05-10
-Mateo Santos,Bizcocho,1,2.0,2024-05-10
-Isabel Alcántara,Tarta de limón,1,3.7,2024-05-11
-Saúl Velasco,Napolitana de chocolate,2,1.8,2024-05-11
-Clara Marín,Magdalena,5,1.0,2024-05-12
-Óscar Godoy,Pan rústico,2,1.4,2024-05-12
-Celia Aranda,Croissant,4,1.5,2024-05-13
-Jordi Bernal,Tarta de fresa,1,4.0,2024-05-13
-Nuria Peinado,Donut relleno,2,1.5,2024-05-14
-Francisco Bravo,Rosquilla,2,1.2,2024-05-14
-Sonia Gutiérrez,Empanadilla,2,2.0,2024-05-15
-Iker Núñez,Pan integral,3,1.2,2024-05-15
-Claudia Paredes,Tarta de manzana,1,3.5,2024-05-16
-Álvaro Jurado,Bollito suizo,3,1.1,2024-05-16
+Ana López,Pan blanco,2,1.0,2025-03-01
+Ana López,Croissant,2,1.5,2025-03-01
+Carlos Pérez,Tarta de manzana,1,3.5,2025-03-01
+Lucía Martín,Donut glaseado,3,1.3,2025-03-02
+Lucía Martín,Magdalena,4,1.0,2025-03-02
+David Gómez,Empanadilla,2,2.0,2025-03-02
+Sofía Torres,Tarta de queso,1,3.8,2025-03-03
+Miguel Ruiz,Pan integral,1,1.2,2025-03-03
+Miguel Ruiz,Donut relleno,2,1.5,2025-03-03
+Laura Fernández,Churros,6,0.9,2025-03-04
+Laura Fernández,Pan rústico,1,1.4,2025-03-04
+Javier Morales,Tarta de limón,1,3.7,2025-03-04
+Elena Díaz,Croissant,3,1.5,2025-03-05
+Elena Díaz,Bollito suizo,2,1.1,2025-03-05
+Daniel Ortega,Napolitana de chocolate,1,1.8,2025-03-05
+Patricia Navarro,Tarta de fresa,1,4.0,2025-03-06
+Álvaro Medina,Pan de centeno,2,1.3,2025-03-06
+Cristina Castro,Churros,5,0.9,2025-03-07
+Cristina Castro,Magdalena,3,1.0,2025-03-07
+Pablo Sánchez,Bollito suizo,4,1.1,2025-03-07
+Marta Romero,Tarta de limón,1,3.7,2025-03-08
+Iván Molina,Donut relleno,2,1.5,2025-03-08
+Nuria Delgado,Pan rústico,2,1.4,2025-03-08
+Alberto Vargas,Bizcocho,2,2.0,2025-03-09
+Raquel Herrera,Empanada gallega,1,3.2,2025-03-09
+Sergio Paredes,Croissant,2,1.5,2025-03-10
+Beatriz León,Magdalena,3,1.0,2025-03-10
+Hugo Navarro,Pan blanco,3,1.0,2025-03-10
+Marina Fuentes,Tarta de manzana,1,3.5,2025-03-11
+Tomás Aguado,Napolitana de jamón y queso,2,2.2,2025-03-11
+Teresa Ríos,Donut glaseado,2,1.3,2025-03-11
+Rubén Campos,Tarta de queso,1,3.8,2025-03-12
+Isabel Méndez,Pan integral,2,1.2,2025-03-12
+Adrián Herrera,Bollito suizo,3,1.1,2025-03-12
+Natalia Duarte,Croissant,3,1.5,2025-03-13
+Jorge Serrano,Rosquilla,2,1.2,2025-03-13
+Sandra Peña,Donut relleno,1,1.5,2025-03-14
+Óscar Prieto,Churros,6,0.9,2025-03-14
+Paula Ramos,Empanadilla,3,2.0,2025-03-15
+Alejandro Cortés,Tarta de fresa,1,4.0,2025-03-15
+Claudia Estévez,Pan de centeno,1,1.3,2025-03-15
+Mario León,Bizcocho,1,2.0,2025-03-15
+Silvia Bravo,Napolitana de chocolate,2,1.8,2025-03-16
+Julián Cabrera,Pan rústico,1,1.4,2025-03-16
+Irene Nieto,Magdalena,3,1.0,2025-03-17
+Gabriel Lozano,Tarta de limón,1,3.7,2025-03-17
+Verónica Cordero,Croissant,4,1.5,2025-03-17
+Luis Benítez,Empanada gallega,1,3.2,2025-03-18
+Eva Gil,Tarta de queso,1,3.8,2025-03-18
+Joaquín Robles,Donut glaseado,2,1.3,2025-03-18
+Noelia Vargas,Pan blanco,2,1.0,2025-03-19
+Andrés Gallego,Napolitana de jamón y queso,1,2.2,2025-03-19
+Carla Pascual,Magdalena,4,1.0,2025-03-19
+Víctor Lozano,Churros,5,0.9,2025-03-20
+Emma Redondo,Tarta de manzana,1,3.5,2025-03-20
+Samuel Reyes,Bizcocho,2,2.0,2025-03-20
+Lorena Peña,Pan integral,3,1.2,2025-03-21
+Iván Duarte,Donut relleno,2,1.5,2025-03-21
+Rebeca Cano,Tarta de fresa,1,4.0,2025-03-21
+Gonzalo Soria,Rosquilla,2,1.2,2025-03-22
+Alicia Arias,Pan de centeno,1,1.3,2025-03-22
+Fernando Ríos,Donut glaseado,3,1.3,2025-03-22
+Natalia Vázquez,Croissant,2,1.5,2025-03-23
+Raúl Suárez,Napolitana de chocolate,2,1.8,2025-03-23
+Patricia Molina,Tarta de queso,1,3.8,2025-03-24
+Héctor Hidalgo,Bollito suizo,3,1.1,2025-03-24
+Rocío Figueroa,Empanadilla,2,2.0,2025-03-25
+Guillermo Acosta,Pan blanco,1,1.0,2025-03-25
+Alba Serrano,Tarta de limón,1,3.7,2025-03-25
+Jonás Merino,Donut relleno,2,1.5,2025-03-26
+Julia Ortega,Bizcocho,2,2.0,2025-03-26
+Diego Roca,Pan rústico,1,1.4,2025-03-26
+Carmen Blasco,Tarta de manzana,1,3.5,2025-03-27
+Víctor Torres,Magdalena,4,1.0,2025-03-27
+Lucía Palacios,Churros,6,0.9,2025-03-27
+Eduardo Ramírez,Pan integral,2,1.2,2025-03-28
+Iris Pino,Napolitana de jamón y queso,2,2.2,2025-03-28
+Ignacio Vallejo,Rosquilla,3,1.2,2025-03-28
+Daniela Cuenca,Pan de centeno,2,1.3,2025-03-29
+Marcos Pastor,Croissant,3,1.5,2025-03-29
+Estela Molina,Tarta de queso,1,3.8,2025-03-30
+Germán Zamora,Empanada gallega,1,3.2,2025-03-30
+Almudena López,Pan blanco,3,1.0,2025-03-31
+Ernesto Fuentes,Churros,6,0.9,2025-03-31
+Lucía Carrasco,Donut glaseado,2,1.3,2025-03-31
+Laura Fernández,Pan rústico,1,1.4,2025-03-11
+Laura Fernández,Tarta de limón,1,3.7,2025-03-20
+Carlos Pérez,Croissant,2,1.5,2025-03-04
+Carlos Pérez,Bizcocho,1,2.0,2025-03-16
+Ana López,Magdalena,4,1.0,2025-03-12
+Ana López,Tarta de queso,1,3.8,2025-03-27
+David Gómez,Churros,4,0.9,2025-03-05
+David Gómez,Empanada gallega,1,3.2,2025-03-25
+Lucía Martín,Donut relleno,1,1.5,2025-03-15
+Lucía Martín,Pan de centeno,1,1.3,2025-03-23
+Sofía Torres,Tarta de manzana,1,3.5,2025-03-12
+Sofía Torres,Donut glaseado,2,1.3,2025-03-22
+Javier Morales,Pan blanco,3,1.0,2025-03-21
+Javier Morales,Napolitana de chocolate,2,1.8,2025-03-28
+Daniel Ortega,Rosquilla,3,1.2,2025-03-17
+Daniel Ortega,Churros,3,0.9,2025-03-19
+Patricia Navarro,Croissant,1,1.5,2025-03-18
+Patricia Navarro,Bizcocho,1,2.0,2025-03-29
+Álvaro Medina,Pan integral,2,1.2,2025-03-10
+Álvaro Medina,Tarta de limón,1,3.7,2025-03-30
+Pablo Sánchez,Tarta de fresa,1,4.0,2025-03-08
+Pablo Sánchez,Empanadilla,2,2.0,2025-03-14
+Marta Romero,Donut relleno,2,1.5,2025-03-10
+Marta Romero,Bollito suizo,2,1.1,2025-03-26
+Iván Molina,Churros,5,0.9,2025-03-16
+Iván Molina,Tarta de queso,1,3.8,2025-03-29
+Nuria Delgado,Pan blanco,2,1.0,2025-03-13
+Nuria Delgado,Magdalena,4,1.0,2025-03-24
+Alberto Vargas,Pan rústico,2,1.4,2025-03-27
+Alberto Vargas,Napolitana de jamón y queso,1,2.2,2025-03-22
+Raquel Herrera,Bizcocho,2,2.0,2025-03-09
+Raquel Herrera,Croissant,1,1.5,2025-03-19
+Sergio Paredes,Tarta de manzana,1,3.5,2025-03-24
+Sergio Paredes,Donut glaseado,2,1.3,2025-03-31
+Beatriz León,Rosquilla,2,1.2,2025-03-07
+Beatriz León,Pan de centeno,1,1.3,2025-03-18
+Hugo Navarro,Churros,6,0.9,2025-03-26
+Hugo Navarro,Napolitana de chocolate,1,1.8,2025-03-30
+Marina Fuentes,Bizcocho,1,2.0,2025-03-12
+Marina Fuentes,Pan integral,2,1.2,2025-03-17
